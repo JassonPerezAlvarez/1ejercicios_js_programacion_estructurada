@@ -20,7 +20,7 @@ console.log("Promedio:", promedio);
 let esMayorDeEdad = true;
 console.log(esMayorDeEdad);
 
-
+0
 
 // 6
 let a = 5, b = 7;
