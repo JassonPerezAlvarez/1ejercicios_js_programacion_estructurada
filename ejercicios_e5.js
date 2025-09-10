@@ -118,3 +118,4 @@ let colores = ['rojo', 'verde', 'azul'];
 let iterador = colores.values(); 
 console.log([...iterador]); // ['rojo', 'verde', 'azul']
 
+// metodo 
