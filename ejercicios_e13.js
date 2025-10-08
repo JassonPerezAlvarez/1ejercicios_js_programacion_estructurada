@@ -87,6 +87,12 @@ console.log(desarrolladores);
 // { nombre: "Marta", puesto: "Desarrolladora" }
 // ]
 
+const salario = [
+{id: 1 , nombre: "carlos", salario: 20000},
+
+];
+
+
 
 
 const personas = [
@@ -103,5 +109,7 @@ const personas = [
   { id: 11, nombre: "Elena", edad: 21 },
   { id: 12, nombre: "Andrés", edad: 35 }
 ];
+
+
 
 
